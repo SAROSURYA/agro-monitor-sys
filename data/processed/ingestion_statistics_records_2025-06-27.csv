@@ -1,0 +1,5 @@
+File Name, Is Corrupt, Missing Record Report, Final Report, Missing Values Report
+corrupt_sample,Yes,No,No,No
+sample_sensor_data,No,No,Yes,Yes
+sample_sensor_data3,No,Yes,Yes,Yes
+sample_sensor_data2,No,Yes,Yes,Yes

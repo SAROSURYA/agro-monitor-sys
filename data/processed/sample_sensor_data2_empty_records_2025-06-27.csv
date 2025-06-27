@@ -1,0 +1,10 @@
+Sensor Id,Timestamp,Reading,Value,Battery Level 
+sensor_5,2025-06-05 12:13:48.068905,temperature,NaN,93.7
+sensor_5,2025-06-05 13:33:48.068905,temperature,NaN,53.57
+sensor_5,2025-06-05 13:08:48.068905,temperature,NaN,54.02
+sensor_5,2025-06-05 13:48:48.068905,humidity,NaN,77.9
+sensor_5,2025-06-05 12:48:48.068905,temperature,NaN,27.0
+sensor_5,2025-06-05 12:38:48.068905,humidity,NaN,61.16
+sensor_5,2025-06-05 12:03:48.068905,humidity,NaN,75.2
+sensor_5,2025-06-05 13:03:48.068905,temperature,NaN,83.95
+sensor_5,2025-06-05 11:48:48.068905,temperature,NaN,74.42

@@ -1,0 +1,4 @@
+Table Name,Total Count,Sensor Id Missing Count,Timestamp Missing Count,Reading Type Missing Count,Value Missing Count,Battery Level Missing Count 
+sample_sensor_data.parquet,30,0,0,0,0,0
+sample_sensor_data3.parquet,30,0,0,2,10,0
+sample_sensor_data2.parquet,30,0,0,0,10,0
