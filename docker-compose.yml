@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  java-app:
+    build: .
+    container_name: agro-monitor-prod
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./data/processed:/app/data/processed
+      - ./data/raw:/app/data/raw
+#    restart: unless-stopped
